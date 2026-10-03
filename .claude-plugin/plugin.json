@@ -1,0 +1,20 @@
+{
+  "name": "gauntlet-loop",
+  "description": "Turns any goal into one short, paste-ready prompt that makes an agent set a real quality bar, run a builder and a separate harsh critic on each piece, compare blind against the bar, and loop until it wins",
+  "version": "1.0.0",
+  "author": {
+    "name": "Trans4m Tech",
+    "url": "https://github.com/Trans4m-Tech"
+  },
+  "homepage": "https://github.com/Trans4m-Tech/Gnome_Gauntlet_Loop",
+  "repository": "https://github.com/Trans4m-Tech/Gnome_Gauntlet_Loop",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "skill",
+    "prompt",
+    "evaluation",
+    "critic",
+    "quality-bar",
+    "workflow"
+  ]
+}

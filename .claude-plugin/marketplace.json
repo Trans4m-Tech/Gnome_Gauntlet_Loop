@@ -1,0 +1,31 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "gnome-gauntlet-loop",
+  "description": "The gauntlet loop skill — a prompt-writer that makes an agent grind on work until it beats a real, named quality bar",
+  "owner": {
+    "name": "Trans4m Tech",
+    "url": "https://github.com/Trans4m-Tech"
+  },
+  "plugins": [
+    {
+      "name": "gauntlet-loop",
+      "description": "Turns any goal into one short, paste-ready prompt that makes an agent set a real quality bar, run a builder and a separate harsh critic on each piece, compare blind against the bar, and loop until it wins",
+      "author": {
+        "name": "Trans4m Tech",
+        "url": "https://github.com/Trans4m-Tech"
+      },
+      "category": "workflow",
+      "homepage": "https://github.com/Trans4m-Tech/Gnome_Gauntlet_Loop",
+      "license": "CC-BY-4.0",
+      "keywords": [
+        "skill",
+        "prompt",
+        "evaluation",
+        "critic",
+        "quality-bar",
+        "workflow"
+      ],
+      "source": "./"
+    }
+  ]
+}
