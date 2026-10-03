@@ -12,7 +12,7 @@
 
 Most agent output stops at "good enough" because nothing is holding it to a standard. This gives it a standard it cannot argue with.
 
-> The gauntlet loop is [Matt Shumer's](https://github.com/mshumer) idea. He wrote the original prompt and named the technique while building [Claude of Duty](https://github.com/mshumer/Claude-of-Duty). This repo packages that pattern as a reusable skill.
+> The gauntlet loop is [Matt Shumer's](https://github.com/mshumer) idea. He wrote the original prompt and named the technique while building [Claude of Duty](https://github.com/mshumer/Claude-of-Duty). This repo packages a modified version of that pattern by Auto-Gnome as a reusable skill.
 
 ---
 
