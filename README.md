@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="gauntlet loop" width="100%">
-</p>
 
 <h1 align="center">Gnome Gauntlet Loop</h1>
 
