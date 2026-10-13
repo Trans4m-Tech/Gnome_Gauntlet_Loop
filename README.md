@@ -9,7 +9,7 @@
 
 Most agent output stops at "good enough" because nothing is holding it to a standard. This gives it a standard it cannot argue with.
 
-> The gauntlet loop is [Matt Shumer's](https://github.com/mshumer) idea. He wrote the original prompt and named the technique while building [Claude of Duty](https://github.com/mshumer/Claude-of-Duty). This repo packages a modified version of that pattern by Auto-Gnome as a reusable skill.
+> The gauntlet loop is [Matt Shumer's](https://github.com/mshumer) idea. He wrote the original prompt and named the technique while building [Claude of Duty](https://github.com/mshumer/Claude-of-Duty). This repo packages a modified version of that pattern by Trans4m AI-Tech as a reusable skill.
 
 ---
 
@@ -189,7 +189,7 @@ For any other agent, the skill swaps those two lines for plain instructions: kee
 
 The gauntlet loop technique is **[Matt Shumer's](https://github.com/mshumer)**. He built [Claude of Duty](https://github.com/mshumer/Claude-of-Duty), wrote the original prompt, and named the loop. Every idea underneath this skill — the harsh critic, the blind comparison, the refusal to stop until the work wins — comes from that prompt.
 
-The skill itself was written by **Jay E at [RoboNuggets](https://robonuggets.com)** and originally published at [robonuggets/gauntlet-loop](https://github.com/robonuggets/gauntlet-loop). This repository is maintained by **Trans4m Tech**.
+The skill itself was written by **Jay E at [RoboNuggets](https://robonuggets.com)** and originally published at [robonuggets/gauntlet-loop](https://github.com/robonuggets/gauntlet-loop). This repository is maintained by **Trans4m AI-Tech**.
 
 Neither the technique nor this skill is that repository. The skill writes a gauntlet loop prompt for you, for any goal, so you do not have to hand-write one each time.
 
